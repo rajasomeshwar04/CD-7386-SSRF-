@@ -1,4 +1,4 @@
-public class badExample {
+public class BadCodeExample {
   public void otherMethod() {
     String oneMore = 'somethingHere';
     init(oneMore);
@@ -8,7 +8,7 @@ public class badExample {
       String FirstName = getName();
       try {
         HttpRequest req = new HttpRequest();
-        req.setEndpoint('callout:Third_Party_Authorization/v1'+Lastname);
+        req.setEndpoint('callout:Third_Party_Authorization/v1'+Lastname); 
         request.setMethod ('POST');
       }
   }
