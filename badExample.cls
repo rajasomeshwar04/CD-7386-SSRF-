@@ -1,4 +1,4 @@
-public class Good {
+public class badExample {
   public void otherMethod() {
     String oneMore = 'somethingHere';
     init(oneMore);
