@@ -1,4 +1,4 @@
-public class Negative {
+public class badExampleAssignement {
   public void otherMethod() {
     String oneMore = 'somethingHere';
     init(oneMore);
