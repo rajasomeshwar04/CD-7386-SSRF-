@@ -1,4 +1,4 @@
-public class badExampleAssignement {
+public class BadCodeExampleWithAssignment {
   public void otherMethod() {
     String oneMore = 'somethingHere';
     init(oneMore);
